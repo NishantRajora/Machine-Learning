@@ -20,7 +20,7 @@ This repository contains my **machine learning learning journey**, including pra
   - Support Vector Machines (SVM)
 - Unsupervised Learning
   - K-Means Clustering    
-  - PCA
+  - PCA  
 - Model Evaluation & Metrics
 - Feature Engineering
 - Basic Deep Learning (coming soon)
