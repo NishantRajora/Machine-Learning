@@ -1,4 +1,4 @@
-# Machine Learning Learning Repository 🤖📊
+# Machine Learning Learning Repository
 
 This repository contains my **machine learning learning journey**, including practice code, experiments, and notes as I explore different ML concepts and algorithms.
 
